@@ -15,7 +15,7 @@
       "image"  : "portraits/sid.jpg"
     },
     {
-      "id"     : "guru",
+      "id"     : "Oprah",
       "job"    : "Investor 103",
       "source" : "generic",
       "name"   : "Gururaj Adrakatti",
@@ -23,13 +23,13 @@
     },
     {
       "job"    : "Investor 104",
-      "id"     : "nagen",
+      "id"     : "KingJames",
       "source" : "generic",
       "name"   : "Nagendra Nyamgondalu",
       "image"  : "portraits/nagen.jpg"
     },
     {
-      "id"     : "vish",
+      "id"     : "Oprah",
       "job"    : "Investor 105",
       "source" : "generic",
       "name"   : "Viswajit Iyer",
@@ -37,13 +37,13 @@
     },
     {
       "job"    : "Investor 106",
-      "id"     : "bala",
+      "id"     : "KingJames",
       "source" : "generic",
       "name"   : "Balasubramani Radhakrishnan",
       "image"  : "portraits/bala.jpg"
     },
     {
-      "id"     : "seema",
+      "id"     : "Oprah",
       "job"    : "Investor 107",
       "source" : "generic",
       "name"   : "Seema Kumar",
@@ -51,21 +51,21 @@
     },
     {
       "job"    : "Investor 108",
-      "id"     : "viji",
+      "id"     : "KingJames",
       "source" : "generic",
       "name"   : "Vijayalakshmi Ragupathy",
       "image"  : "portraits/viji.jpg"
     },
     {
       "job"    : "Investor 109",
-      "id"     : "anand",
+      "id"     : "Oprah",
       "source" : "generic",
       "name"   : "Anand Rajan",
       "image"  : "portraits/anand.jpg"
     },
     {
       "job"    : "Investor 110",
-      "id"     : "gireesh",
+      "id"     : "KingJames",
       "source" : "generic",
       "name"   : "Gireesh Govind",
       "image"  : "portraits/gireesh.jpg"
