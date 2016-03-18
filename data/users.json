@@ -15,7 +15,7 @@
       "image"  : "portraits/sid.jpg"
     },
     {
-      "id"     : "Oprah",
+      "id"     : "guru",
       "job"    : "Investor 103",
       "source" : "generic",
       "name"   : "Gururaj Adrakatti",
@@ -23,13 +23,13 @@
     },
     {
       "job"    : "Investor 104",
-      "id"     : "KingJames",
+      "id"     : "nagen",
       "source" : "generic",
       "name"   : "Nagendra Nyamgondalu",
       "image"  : "portraits/nagen.jpg"
     },
     {
-      "id"     : "Oprah",
+      "id"     : "vish",
       "job"    : "Investor 105",
       "source" : "generic",
       "name"   : "Viswajit Iyer",
@@ -37,13 +37,13 @@
     },
     {
       "job"    : "Investor 106",
-      "id"     : "KingJames",
+      "id"     : "bala",
       "source" : "generic",
       "name"   : "Balasubramani Radhakrishnan",
       "image"  : "portraits/bala.jpg"
     },
     {
-      "id"     : "Oprah",
+      "id"     : "seema",
       "job"    : "Investor 107",
       "source" : "generic",
       "name"   : "Seema Kumar",
@@ -51,21 +51,21 @@
     },
     {
       "job"    : "Investor 108",
-      "id"     : "KingJames",
+      "id"     : "viji",
       "source" : "generic",
       "name"   : "Vijayalakshmi Ragupathy",
       "image"  : "portraits/viji.jpg"
     },
     {
       "job"    : "Investor 109",
-      "id"     : "Oprah",
+      "id"     : "anand",
       "source" : "generic",
       "name"   : "Anand Rajan",
       "image"  : "portraits/anand.jpg"
     },
     {
       "job"    : "Investor 110",
-      "id"     : "KingJames",
+      "id"     : "gireesh",
       "source" : "generic",
       "name"   : "Gireesh Govind",
       "image"  : "portraits/gireesh.jpg"
@@ -73,7 +73,7 @@
   ],
   "representatives": [
     {
-      "job"    : "Representative",
+      "job"    : "Advisor",
       "id"     : "ladygaga",
       "source" : "generic",
       "name"   : "Vikas Manoria",
@@ -87,14 +87,14 @@
       "image"  : "portraits/siva.jpg"
     },
     {
-      "job"    : "Representative",
+      "job"    : "Advisor",
       "id"     : "senthil",
       "source" : "generic",
       "name"   : "Senthilkumaran Balasubramaniyan",
       "image"  : "portraits/senthil.jpg"
     },
     {
-      "job"    : "Representative",
+      "job"    : "Advisor",
       "id"     : "phani",
       "source" : "generic",
       "name"   : "Phani PK Burra",
