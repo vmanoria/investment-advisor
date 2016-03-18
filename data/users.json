@@ -4,14 +4,14 @@
       "id"     : "Oprah",
       "job"    : "Client 107",
       "source" : "generic",
-      "name"   : "Leo Rakes",
+      "name"   : "Vikas Manoria",
       "image"  : "portraits/11M.jpg"
     },
     {
       "job"    : "Client 108",
       "id"     : "KingJames",
       "source" : "generic",
-      "name"   : "Frieda Freya Matthews",
+      "name"   : "Mandira Anand",
       "image"  : "portraits/19F.jpg"
     }
   ],
@@ -20,7 +20,7 @@
       "job"    : "Representative",
       "id"     : "ladygaga",
       "source" : "generic",
-      "name"   : "Jesica Dory Abram",
+      "name"   : "Kopal Kothari",
       "image"  : "portraits/20F.jpg"
     }
   ]

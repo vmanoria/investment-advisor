@@ -23,14 +23,14 @@ module.exports = {
   },
 
   tradeoff_analytics : {
-    username : '<username>',
-    password : '<password>',
+    username : '2f2e29c7-23c3-4226-afc6-419ae9ab752c',
+    password : 'IUuSWiclR3B6',
     version  : 'v1'
   },
 
   personality_insights : {
-    username : '<username>',
-    password : '<password>',
+    username : 'efd10e5c-429b-4e6d-b6fb-6e2455b976d5',
+    password : 'u3DzvZGutCNX',
     version  : 'v2'
   },
 
