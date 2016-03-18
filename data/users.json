@@ -1,27 +1,104 @@
 {
-  "clients" : [
+  "Investors" : [
     {
       "id"     : "Oprah",
-      "job"    : "Client 107",
+      "job"    : "Investor 101",
       "source" : "generic",
-      "name"   : "Vikas Manoria",
-      "image"  : "portraits/11M.jpg"
+      "name"   : "Rajavel Sekaran",
+      "image"  : "portraits/rajavel.jpg"
     },
     {
-      "job"    : "Client 108",
+      "job"    : "Investor 102",
       "id"     : "KingJames",
       "source" : "generic",
-      "name"   : "Mandira Anand",
-      "image"  : "portraits/19F.jpg"
-    }
+      "name"   : "Siddharth Purohit",
+      "image"  : "portraits/sid.jpg"
+    },
+    {
+      "id"     : "guru",
+      "job"    : "Investor 103",
+      "source" : "generic",
+      "name"   : "Gururaj Adrakatti",
+      "image"  : "portraits/guru.jpg"
+    },
+    {
+      "job"    : "Investor 104",
+      "id"     : "nagen",
+      "source" : "generic",
+      "name"   : "Nagendra Nyamgondalu",
+      "image"  : "portraits/nagen.jpg"
+    },
+    {
+      "id"     : "vish",
+      "job"    : "Investor 105",
+      "source" : "generic",
+      "name"   : "Viswajit Iyer",
+      "image"  : "portraits/vish.jpg"
+    },
+    {
+      "job"    : "Investor 106",
+      "id"     : "bala",
+      "source" : "generic",
+      "name"   : "Balasubramani Radhakrishnan",
+      "image"  : "portraits/bala.jpg"
+    },
+    {
+      "id"     : "seema",
+      "job"    : "Investor 107",
+      "source" : "generic",
+      "name"   : "Seema Kumar",
+      "image"  : "portraits/seema.jpg"
+    },
+    {
+      "job"    : "Investor 108",
+      "id"     : "viji",
+      "source" : "generic",
+      "name"   : "Vijayalakshmi Ragupathy",
+      "image"  : "portraits/viji.jpg"
+    },
+    {
+      "job"    : "Investor 109",
+      "id"     : "anand",
+      "source" : "generic",
+      "name"   : "Anand Rajan",
+      "image"  : "portraits/anand.jpg"
+    },
+    {
+      "job"    : "Investor 110",
+      "id"     : "gireesh",
+      "source" : "generic",
+      "name"   : "Gireesh Govind",
+      "image"  : "portraits/gireesh.jpg"
+    }    
   ],
   "representatives": [
     {
       "job"    : "Representative",
       "id"     : "ladygaga",
       "source" : "generic",
-      "name"   : "Kopal Kothari",
-      "image"  : "portraits/20F.jpg"
+      "name"   : "Vikas Manoria",
+      "image"  : "portraits/vikas.jpg"
+    },
+    {
+      "job"    : "Advisor",
+      "id"     : "siva",
+      "source" : "generic",
+      "name"   : "Sivakumar AVKD",
+      "image"  : "portraits/siva.jpg"
+    },
+    {
+      "job"    : "Representative",
+      "id"     : "senthil",
+      "source" : "generic",
+      "name"   : "Senthilkumaran Balasubramaniyan",
+      "image"  : "portraits/senthil.jpg"
+    },
+    {
+      "job"    : "Representative",
+      "id"     : "phani",
+      "source" : "generic",
+      "name"   : "Phani PK Burra",
+      "image"  : "portraits/phani.jpg"
     }
   ]
 }
