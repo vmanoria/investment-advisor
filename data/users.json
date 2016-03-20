@@ -2,27 +2,20 @@
   "clients" : [
     {
       "id"     : "Oprah",
-      "job"    : "Client 101",
+      "job"    : "Investor 101",
       "source" : "generic",
       "name"   : "Rajavel Sekaran",
       "image"  : "portraits/rajavel.jpg"
     },
     {
-      "job"    : "Client 102",
+      "job"    : "Investor 102",
       "id"     : "KingJames",
       "source" : "generic",
       "name"   : "Siddharth Purohit",
       "image"  : "portraits/sid.jpg"
     },
     {
-      "id"     : "guru",
-      "job"    : "Client 103",
-      "source" : "generic",
-      "name"   : "Gururaj Adrakatti",
-      "image"  : "portraits/guru.jpg"
-    },
-    {
-      "job"    : "Client 104",
+      "job"    : "Investor 104",
       "id"     : "nagen",
       "source" : "generic",
       "name"   : "Nagendra Nyamgondalu",
@@ -30,13 +23,13 @@
     },
     {
       "id"     : "vish",
-      "job"    : "Client 105",
+      "job"    : "Investor 105",
       "source" : "generic",
       "name"   : "Viswajit Iyer",
       "image"  : "portraits/vish.jpg"
     },
     {
-      "job"    : "Client 106",
+      "job"    : "Investor 106",
       "id"     : "bala",
       "source" : "generic",
       "name"   : "Balasubramani Radhakrishnan",
@@ -44,27 +37,34 @@
     },
     {
       "id"     : "seema",
-      "job"    : "Client 107",
+      "job"    : "Investor 107",
       "source" : "generic",
       "name"   : "Seema Kumar",
       "image"  : "portraits/seema.jpg"
     },
     {
-      "job"    : "Client 108",
+      "job"    : "Investor 108",
       "id"     : "viji",
       "source" : "generic",
       "name"   : "Vijayalakshmi Ragupathy",
       "image"  : "portraits/viji.jpg"
     },
     {
-      "job"    : "Client 109",
+      "job"    : "Investor 109",
       "id"     : "anand",
       "source" : "generic",
       "name"   : "Anand Rajan",
       "image"  : "portraits/anand.jpg"
     },
     {
-      "job"    : "Client 110",
+      "id"     : "guru",
+      "job"    : "Investor 103",
+      "source" : "generic",
+      "name"   : "Gururaj Adrakatti",
+      "image"  : "portraits/guru.jpg"
+    },
+    {
+      "job"    : "Investor 110",
       "id"     : "gireesh",
       "source" : "generic",
       "name"   : "Gireesh Govind",

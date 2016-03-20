@@ -19,7 +19,7 @@ module.exports = {
 
   // MongoDB
   database: {
-    url : "mongodb://7c39b405-e9d1-48a8-94b8-d01e23e5c6a3:ddac45a0-9ddf-4f89-b396-93d67b6e80b6@192.155.243.27:10467/db"
+    url : "mongodb://62aedc9d-e86e-42ea-9fdd-af6ac4118f74:a5c95ded-a88a-41bb-b89a-d853895fe08e@192.155.243.53:10303/db"
   },
 
   tradeoff_analytics : {
