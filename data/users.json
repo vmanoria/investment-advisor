@@ -1,7 +1,7 @@
 {
   "clients" : [
     {
-      "id"     : "Oprah",
+      "id"     : "rajavel",
       "job"    : "Investor 101",
       "source" : "generic",
       "name"   : "Rajavel Sekaran",
@@ -9,7 +9,7 @@
     },
     {
       "job"    : "Investor 102",
-      "id"     : "KingJames",
+      "id"     : "sid",
       "source" : "generic",
       "name"   : "Siddharth Purohit",
       "image"  : "portraits/sid.jpg"
@@ -74,7 +74,7 @@
   "representatives": [
     {
       "job"    : "Advisor",
-      "id"     : "ladygaga",
+      "id"     : "vikas",
       "source" : "generic",
       "name"   : "Vikas Manoria",
       "image"  : "portraits/vikas.jpg"
