@@ -57,19 +57,19 @@
       "image"  : "portraits/anand.jpg"
     },
     {
-      "id"     : "guru",
-      "job"    : "Investor 103",
-      "source" : "generic",
-      "name"   : "Gururaj Adrakatti",
-      "image"  : "portraits/guru.jpg"
-    },
-    {
       "job"    : "Investor 110",
       "id"     : "gireesh",
       "source" : "generic",
       "name"   : "Gireesh Govind",
       "image"  : "portraits/gireesh.jpg"
-    }    
+    },
+        {
+      "id"     : "guru",
+      "job"    : "Investor 103",
+      "source" : "generic",
+      "name"   : "Gururaj Adrakatti",
+      "image"  : "portraits/guru.jpg"
+    }
   ],
   "representatives": [
     {
