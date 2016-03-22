@@ -6529,7 +6529,8 @@ $(document).ready(function () {
     $('#appHeader').click(toggleHeaderInfo);
 
     $('#launchApp').click(launchApp);
-    $('#landing').show(400);
+//    $('#landing').show(400);
+	$('#gallery').show(400);
   }
 
   initializeDemo();
