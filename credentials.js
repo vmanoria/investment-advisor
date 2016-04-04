@@ -19,7 +19,7 @@ module.exports = {
 
   // MongoDB
   database: {
-    url : "mongodb://ebad3f2f-43fb-4f3b-97b3-dfafff785842:0d8506b2-b3ea-4b97-a983-2d0ce2d91061@192.155.243.53:10304/db"
+    url : "mongodb://08b81bc7-8ede-4ab1-9b84-914ba01992ca:de499916-40dd-4f8a-8dbf-eea7cb803725@50.23.230.140:10518/db"
   },
 
   tradeoff_analytics : {
@@ -41,7 +41,7 @@ module.exports = {
       consumer_secret  :    'jdibb2CSK3b5iA19zA13mTIpqL7uScRVLokesqLwpRWRXuksBl',
       access_token_key :    '246254900-uiZF4MW2zUMs4tYDpTf60yvrkXZkVz9Yn5mKHcgR',
       access_token_secret : 'UbX3F9HwEgLZdcew5wAqiMeoe19KDR9ouxDMD70mHh5bY',
-      enabled : true // Disabled since this is just an example
+      enabled : 'false' // Disabled since this is just an example
     }
   ]
 };
