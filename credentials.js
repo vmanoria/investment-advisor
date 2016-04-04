@@ -37,11 +37,11 @@ module.exports = {
   // Twitter app credentials: https://apps.twitter.com/app
   twitter: [
     {
-      consumer_key :        '<consumer_key>',
-      consumer_secret  :    '<consumer_secret>',
-      access_token_key :    '<access_token_key>',
-      access_token_secret : '<access_token_secret>',
-      enabled : false // Disabled since this is just an example
+      consumer_key :        'JF4OmlNEAPNUn01rY30w4x9wH',
+      consumer_secret  :    'jdibb2CSK3b5iA19zA13mTIpqL7uScRVLokesqLwpRWRXuksBl',
+      access_token_key :    '246254900-uiZF4MW2zUMs4tYDpTf60yvrkXZkVz9Yn5mKHcgR',
+      access_token_secret : 'UbX3F9HwEgLZdcew5wAqiMeoe19KDR9ouxDMD70mHh5bY',
+      enabled : true // Disabled since this is just an example
     }
   ]
 };
