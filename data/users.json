@@ -74,8 +74,8 @@
   "representatives": [
     {
       "job"    : "Advisor",
-      "id"     : "vikas",
-      "source" : "generic",
+      "id"     : "vmanoria",
+      "source" : "twitter",
       "name"   : "Vikas Manoria",
       "image"  : "portraits/vikas.jpg"
     },
