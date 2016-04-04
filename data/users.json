@@ -64,7 +64,7 @@
       "image"  : "portraits/gireesh.jpg"
     },
         {
-      "id"     : "guru",
+      "id"     : "guruji",
       "job"    : "Investor 103",
       "source" : "generic",
       "name"   : "Gururaj Adrakatti",
@@ -74,8 +74,8 @@
   "representatives": [
     {
       "job"    : "Advisor",
-      "id"     : "vmanoria",
-      "source" : "twitter",
+      "id"     : "vikas",
+      "source" : "generic",
       "name"   : "Vikas Manoria",
       "image"  : "portraits/vikas.jpg"
     },
